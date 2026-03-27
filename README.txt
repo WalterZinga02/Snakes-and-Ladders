@@ -1,6 +1,6 @@
-Step da eseguire prima del primo avvio:
+Before running the application for the first time, complete the following steps:
 
-step 1. copiare il path del documento "memento_0.txt" allegato nella cartella di gioco;
-step 2. aprire la classe "Caretaker" e sostituire il campo "filePath" con quello copiato;
+Copy the file path of the memento_0.txt document included in the game folder.
+Open the Caretaker class and replace the value of the filePath field with the copied path.
 
-Dopo aver terminato questi due step aprire e avviare la classe "Main" ogni qual volta si voglia avviare il gioco.
+Once these steps are completed, you can start the game by running the Main class whenever you want to launch the application.
